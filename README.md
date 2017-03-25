@@ -1,7 +1,7 @@
 ## Run
--v : verbose mode
+-v (--verbose) : verbose mode
 </br>
--w 365 : time window
+-w (--window) 365 : time window
 </br>
---output C:\Temp : output directory, if not provided files downloaded to: __download__
+-o (--output) C:\Temp : output directory, if not provided files downloaded to: __download__
 </br>
